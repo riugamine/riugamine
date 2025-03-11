@@ -33,10 +33,10 @@ I’m driven by the belief that great user experiences can transform projects an
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,html,css,sass,bootstrap,git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nextjs,react,redux,nodejs,nestjs,express,typescript,html,css,git,github,figma,vscode,tailwind,zustand,python,postgresql,php,laravel,npm,jest,playwright,postman,discord)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,typescript,nextjs,docker)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,docker,kubernetes,mongodb,fastapi)](https://skillicons.dev)
 
 
 <!--
