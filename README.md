@@ -1,60 +1,77 @@
-# Hi 👋, I'm Jose Angel Velasquez
+<!--
+    Hey there, I'm Daria Stanilevici!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @daria-stanilevici :))
+-->
 
-### A Full Stack Developer from Venezuela, Living in Margarita
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header" alt="header"/> 
 
-![Profile views](https://komarev.com/ghpvc/?username=riugamine&label=Profile%20views&color=0e75b6&style=flat)
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0A66C2&width=435&lines=Hello%2C+I'm+Jose+Angel+Velasquez;Web+Developer;Frontend+Specialist;React+%26+Node.js+Expert" alt="Web Developer"/>
+</a>
 
-I'm passionate about creating efficient, user-friendly web applications. With experience in both frontend and backend technologies, I enjoy solving complex problems and continuously learning new skills in the ever-evolving tech landscape.
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-## 🔭 Currently Working On
-- Building a full-stack e-commerce platform with MERN stack
-- Improving my skills in cloud deployment and microservices architecture
+<div>
+    <img src="./assets/about_joseangelweb.gif" alt="About Me Terminal GIF"/>
+</div>
 
-## 🌱 I'm Currently Learning
-- Node.js, Express and MongoDB
-- Advanced React patterns and performance optimization
-- Cloud services (AWS/Azure)
+<!--
+     My mission, because I'm a superhero!
+-->
 
-## 💼 Experience
-- Frontend Developer at XYZ Company (2020-Present)
-- Web Developer Intern at ABC Tech (2019-2020)
+### My mission
+I’m driven by the belief that great user experiences can transform projects and create lasting impact. My goal is to continue growing professionally by developing applications that users love, while contributing to innovative and meaningful projects.
 
-## 💬 Ask Me About
-- React, Redux and APIs
-- Frontend architecture and best practices
-- JavaScript optimization techniques
+<!--
+     This is the list of my skills and tools I am studying!
+-->
 
-## 📫 How to Reach Me
-- Email: jangel9829@gmail.com
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,html,css,sass,bootstrap,git,github,figma,vscode)](https://skillicons.dev)
 
-## 🔗 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/joseangelvt_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riugamine)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/joseangelvt_)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joseangelvt_)
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,typescript,nextjs,docker)](https://skillicons.dev)
 
-## 🚀 Featured Projects
-### Project Name 1
-Brief description of what this project does and the technologies used.
-[View Project](https://github.com/riugamine/project1)
 
-### Project Name 2
-Brief description of what this project does and the technologies used.
-[View Project](https://github.com/riugamine/project2)
+<!--
+     Fast links to my socials!
+-->
 
-## 🛠️ Languages and Tools
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/jose-velasquez-b2a65b1a1">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/joseangelweb_">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+</div>
 
-## 📊 GitHub Stats
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/11MmFbCU27YS8O-i8lLZ02h2L_bwn7VHf/view?usp=drive_link" download>Download my resume</a>
+
+### What I Bring to the Table
+- **User-Centric Design:** I focus on crafting interfaces that are not only beautiful but also intuitive and accessible to all.
+- **Efficient Solutions:** I leverage modern tools and technologies to build scalable and high-performing web applications.
+- **Passion for Excellence:** I don't just meet expectations—I aim to exceed them, delivering results that make a difference.
+
+### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riugamine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=riugamine&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riugamine&theme=dark&hide_border=false)
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" alt="footer"/>
+<!--
+     Thanks for being my guest <3
+-->
