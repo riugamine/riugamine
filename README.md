@@ -59,7 +59,7 @@ I’m driven by the belief that great user experiences can transform projects an
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/11MmFbCU27YS8O-i8lLZ02h2L_bwn7VHf/view?usp=drive_link" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/10d4DvOpBXA4W7CZI0zDf9po-8nQB1hz1/view?usp=drive_link" download>Download my resume</a>
 
 ### What I Bring to the Table
 - **User-Centric Design:** I focus on crafting interfaces that are not only beautiful but also intuitive and accessible to all.
@@ -68,7 +68,7 @@ I’m driven by the belief that great user experiences can transform projects an
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riugamine&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=riugamine&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riugamine&theme=dark&hide_border=false)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" alt="footer"/>
